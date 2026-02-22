@@ -956,8 +956,6 @@
 - `nano` = text editor
 - `/etc/hosts` = host file
 
----
-
 ## **Linux Servers and Clients**
 
 ### **Client-Server Communications**
