@@ -1,6 +1,6 @@
 ### Introduction to SOC
 - Security Operations Center **~={blue}SOC=~** comprises a **~={yellow}team of specialized professionals=~**, each responsible for **~={green}different aspects of cybersecurity operations.=~**
-- **~={cyan}These roles work collaboratively=~** to ensure the organizations digital assets are protected, incidents are managed effectively and security measures are continuously improved.
+- **~={cyan}These roles work collaboratively=~** to **~={orange}ensure the organizations digital assets=~** are ~={purple}**protected, incidents are managed effectively and security measures are continuously improved.**=~
 
 ![[Pasted image 20260307213751.png]]
 
@@ -20,20 +20,11 @@ smoothly without silos
 If company is expanding to EU, plan for GDPR compliance 
 monitoring in SOC
 ```
-~={yellow}3. **Policy Development=~**
-- **Overview**: Establish and enforce security policies and procedures.
-- **Example Policies**:
-```
-- Alert response time SLA
-- Incident escalation procedure
-- Password reset procedures
-- Access control policies
-- Data retention policies
-```
-~={yellow}4. **Performance Management=~**
+
+~={yellow}3. **Performance Management=~**
 - **Overview**: **~={orange}Monitor=~** SOC performance using **~={blue}KPIs and metrics.=~**
 
-~={yellow}5. **Resource Management=~**
+~={yellow}4. **Resource Management=~**
 - **Overview**: **~={orange}Allocate=~** resources ~={blue}effectively, including staffing, tools, and budgets.=~
 
 #### **Security Analyst Tiers**
