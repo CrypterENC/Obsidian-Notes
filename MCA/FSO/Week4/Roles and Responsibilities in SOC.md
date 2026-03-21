@@ -71,24 +71,9 @@ monitoring in SOC
 ##### Threat Intelligence Analyst
 - They perform **Gathering:** i.e. **~={cyan}they collects data=~** on **~={pink}new threats and hacker tactics.=~**
 - Once gathering is done they **Report it:** i.e. **~={pink}reports are shared  with SOC teams=~** to **~={cyan}improve defenses.=~**
-- They also perform **Collaboration:** i.e **~={cyan}they exchange THREAT info=~** with **~={pink}partners and inside the organization.=~**
+- They also perform **Collaboration:** i.e. **~={cyan}they exchange THREAT info=~** with **~={pink}partners and inside the organization.=~**
 
 ##### Security Engineer
 - They perform **Tool Management:** i.e. **~={cyan}they set up and maintain=~** **~={pink}security tools like SIEM, firewalls, etc.=~**
 - They also handle **Automation:** i.e. **~={cyan}they implement SOAR solutions=~** to **~={pink}automate SOC tasks.=~**
 - They ensure **Integration:** i.e. **~={cyan}they make sure all security tools=~** **~={pink}work together smoothly.=~**
-
-##### Compliance & Governance Specialist
-- They perform **Regulatory Compliance:** i.e. **~={cyan}they ensure the SOC follows=~** **~={pink}relevant laws and standards.=~**
-- They handle **Policy Enforcement:** i.e. **~={cyan}they create and enforce=~** **~={pink}security policies and procedures.=~**
-- They manage **Audit Coordination:** i.e. **~={cyan}they help with=~** **~={pink}internal and external audits.=~**
-
-##### Vulnerability Management Specialist
-- They perform **Vulnerability Assessment:** i.e. **~={cyan}they run scans=~** to **~={pink}find weaknesses in systems and applications.=~**
-- They handle **Remediation Coordination:** i.e. **~={cyan}they work with IT and development teams=~** to **~={pink}fix identified vulnerabilities.=~**
-- They manage **Reporting:** i.e. **~={cyan}they track and provide reports=~** on **~={pink}vulnerability status and trends to management.=~**
-
-##### Security Architect
-- They perform **Security Design:** i.e. **~={cyan}they plan and build=~** **~={pink}secure network systems and architectures.=~**
-- They handle **Technology Evaluation:** i.e. **~={cyan}they review and recommend=~** **~={pink}new security technologies and solutions.=~**
-- They ensure **Integration & Optimization:** i.e. **~={cyan}they make sure security measures=~** **~={pink}fit well into the overall IT infrastructure.=~**

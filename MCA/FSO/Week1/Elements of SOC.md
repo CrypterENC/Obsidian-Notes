@@ -60,7 +60,7 @@ The foundation of any SOC rests on three critical pillars: **People, Processes, 
 
 ## **Technology in the SOC: SIEM**
 
-~={cyan}A SOC needs=~ a ~={pink}security information and event management system (SIEM),=~ or its equivalent.
+~={cyan}A SOC needs=~ a ~={pink}**security information and event management system (SIEM)**,=~ or its equivalent.
 
 ### **SIEM Purpose**
 
@@ -71,37 +71,34 @@ The foundation of any SOC rests on three critical pillars: **People, Processes, 
 ~={cyan}SIEM systems are used for=~:
 
 - ~={pink}Collecting and filtering data=~
-- ~={orange}Detecting and classifying threats=~
-- Analyzing and investigating threats
-- Managing resources to implement preventive measures
-- Addressing future threats
+- ~={orange}**Detecting** and **classifying** threats=~
+- **Analyzing** and **investigating** threats
+- **Managing** resources
+- **Addressing future threats**
 
 ### **SIEM Technologies Include**
 
 - ~={red}Event collection, correlation, and analysis=~
-- ~={red}Security monitoring=~
-- ~={red}Security control=~
+- ~={red}Security monitoring and control=~
 - ~={red}Log management=~
 - ~={red}Vulnerability assessment=~
 - ~={red}Vulnerability tracking=~
-- ~={red}Threat intelligence=~
 
 ---
 
 ## **Technology in the SOC: SOAR**
 
-~={cyan}SIEM and=~ ~={pink}security orchestration, automation and response (SOAR)=~ are ~={orange}often paired together=~ as they have capabilities that complement each other.
+~={cyan}SIEM and=~ ~={pink}security orchestration, automation and response (SOAR)=~ are ~={orange}often paired together=~ as they have **capabilities that complement each other.**
 
 ### **SOAR Overview**
 
-- **Usage:** i.e. ~={cyan}Large security operations (SecOps) teams use=~ both technologies to optimize their SOC.
+- **Usage:** i.e. ~={cyan}Large security operations (SecOps) teams use=~ both technologies to **~={pink}optimize their SOC.=~**
 - **Relationship:** i.e. ~={cyan}SOAR platforms are similar to SIEMs=~ in that they aggregate, correlate, and analyze alerts.
-- **Key Difference:** i.e. SOAR technology goes a step further by integrating threat intelligence and automating incident investigation.
+- **Key Difference:** i.e. SOAR technology goes a step further by integrating **~={pink}threat intelligence and automating incident investigation.=~**
 
 ### **SOAR Capabilities**
 
-- **Data Gathering:** i.e. they gather alarm data from each component of the system.
-- **Research & Assessment:** i.e. they provide tools that enable cases to be researched, assessed, and investigated.
-- **Integration & Automation:** i.e. they emphasize integration  as a means of automating complex incident response workflows that enable more rapid response and adaptive defense strategies.
-- **Playbooks:** i.e. they include pre-defined playbooks that enable automatic response to specific threats. Playbooks can be initiated automatically based on predefined rules or may be triggered by security personnel.
+- **~={red}Data Gathering=~:** i.e. ~={orange}they gather alarm data from each component of the system.=~
+- **~={red}Integration & Automation:=~** i.e. they emphasize integration  as a means of ~={orange}automating complex incident response workflows that enable more rapid response=~ and adaptive defense strategies.
+- **~={red}Playbooks=~:** i.e. they include ~={orange}pre-defined playbooks that enable automatic response to specific threats.=~ Playbooks can be initiated automatically based on predefined rules or may be triggered by security personnel.
 
