@@ -1,13 +1,13 @@
 ## What is Logical Addressing ?
 
-- Each device in the network needs an address and that address is called Logical Addressing --> IP Address
+- Each device in the network needs an **~={green}address and that address and the process of assigning that IP ADDRESS=~** is called Logical Addressing --> IP Address
 - In Short **Logical Addressing** means --> Assigning ( who assigns the SOFTWARE assigns ) IP Address to the devices.
 
-#### What is IP Address
+#### What is IP Address 
 
 - It stands for Internet protocol address
-- It is an **identifying number** that is **associated with a specific computer** or a computer network.
-- When **connected to the internet**, the **ip address allows the computer to send and receive information.**
+- It is an ~={green}**identifying number**=~ that is **~={green}associated with a specific computer**=~ or a computer network.
+- When **connected to the internet**, the **i~={green}p address allows the computer to send and receive information.**=~
 
 #### 2 Versions of IP ( IPv4 32bit and IPv6 128bit )
 
