@@ -41,6 +41,6 @@
 
 **DQL commands** are used to query and retrieve data from a database.
 
-|**Command**|**Description**|**Example**|
-|---|---|---|
-|**SELECT**|Retrieves data from one or more tables.|`SELECT * FROM employees WHERE age > 30;`|
+| **Command** | **Description**                         | **Example**                               |
+| ----------- | --------------------------------------- | ----------------------------------------- |
+| **SELECT**  | Retrieves data from one or more tables. | `SELECT * FROM employees WHERE age > 30;` |

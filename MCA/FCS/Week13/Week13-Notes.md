@@ -19,4 +19,7 @@
 - Each **number is the decimal** (base- 10) **representation for an eight- digit binary** (base-2) number, also called an octet.
 - ![[Pasted image 20260320114957.png]]
 
-- 
+
+Foundations of Computer System   --->  22-MAR-26   --->  17-APR-2026
+
+Mathematical Foundations for Computer Applications   --->  28-MAR-26   --->  20-APR-2026
