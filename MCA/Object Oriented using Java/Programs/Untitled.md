@@ -301,3 +301,178 @@ public class Question4_ShapeDrawing {
 }
 
 ```
+
+```
+
+abstract class Staff {
+
+    int staffId;
+
+    String name;
+
+  
+
+    Staff(int staffId, String name){
+
+        this.name = name;
+
+        this.staffId = staffId;
+
+    }
+
+  
+
+    void displayDetials(){
+
+        System.out.println("ID: "+staffId+"Staff Name: "+name);
+
+    }
+
+}
+
+  
+
+interface DigitalService{
+
+    void accessPatientRecord();
+
+    void processBilling(double amount);
+
+  
+
+}
+
+  
+
+class Doctor extends Staff implements DigitalService {
+
+  
+
+    Doctor(int staffid, String name, String Dep){
+
+        super(staffId, name);    
+
+    }
+
+    @Override
+
+    void performDuties() {
+
+        System.out.println("Doctor "+name+" Diagonsing patients ");
+
+    }
+
+  
+
+    @Override
+
+    public void accessPatientRecord() {
+
+        System.out.println("Doctor "+name+"Accessing patient records");
+
+    }
+
+  
+
+    @Override
+
+    public void processBilling(double amount) {
+
+        System.out.println("Doctor "+name+"processed Bill"+amount);
+
+    }
+
+}
+
+  
+
+class Nurse extends Staff implements DigitalService {
+
+  
+
+    Nurse(int staffId, String name){
+
+        super(staffId, name);
+
+    }
+
+  
+
+    @Override
+
+    void performDuties() {
+
+        System.out.println("Nurse "+name+" Assiting with Treatments ");
+
+    }
+
+  
+
+    @Override
+
+    public void accessPatientRecord() {
+
+        System.out.println("Nurse "+name+"Accessing patient records");
+
+    }
+
+  
+
+    @Override
+
+    public void processBilling(double amount) {
+
+        System.out.println("Nurse "+name+"recorded Bill"+amount);
+
+    }
+
+}
+
+  
+
+public class HospitalManagmentSystem {
+
+    public static void main(String[] args){
+
+  
+
+        System.out.println("");
+
+  
+
+        Doctor d = new Doctor(101, "De.Rajesh");
+
+  
+
+        Nurse n = new Nurse(201, "Anne");
+
+  
+  
+
+        d.displayDetials();
+
+        d.performDuties();
+
+        d.accessPatientRecord();
+
+        d.processBilling(1000);
+
+  
+
+        System.out.println();
+
+  
+
+        n.displayDetials();
+
+        n.performDuties();
+
+        n.accessPatientRecord();
+
+        n.processBilling(600);
+
+    }
+
+}
+
+```
